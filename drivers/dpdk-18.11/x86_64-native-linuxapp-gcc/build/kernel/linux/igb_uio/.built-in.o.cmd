@@ -1,0 +1,1 @@
+cmd_/local/onvm/openNetVM/dpdk/x86_64-native-linuxapp-gcc/build/kernel/linux/igb_uio/built-in.o :=  rm -f /local/onvm/openNetVM/dpdk/x86_64-native-linuxapp-gcc/build/kernel/linux/igb_uio/built-in.o; ar rcsD /local/onvm/openNetVM/dpdk/x86_64-native-linuxapp-gcc/build/kernel/linux/igb_uio/built-in.o
